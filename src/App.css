@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card {
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.card-body {
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.btn {
+  height: 40px;
+  width: 100px;
+  padding: 10px;
+  background-color: deepskyblue;
+  color: white;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
